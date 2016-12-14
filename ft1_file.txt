@@ -1,0 +1,2 @@
+Fichero creado en la rama featre f1
+Modificado en la rama feature 2
